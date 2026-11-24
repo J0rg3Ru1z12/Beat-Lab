@@ -1,0 +1,64 @@
+# static in my head
+by: Jorge Ruiz
+tempo: 92
+steps: 16
+volume: hat 18%
+volume: kick 55%
+volume: bass 75%
+volume: lead 65%
+
+## intro
+pad:     A3+C4+E4 - - - | - - - - | F3+A3+C4 - - - | - - - -
+bass:    A2 - - - | - - - - | F2 - - - | - - - -
+hat:     . . . . | . . . . | . . . . | . . . .
+
+## verse-a
+pad:     A3+C4+E4 - - - | - - - - | F3+A3+C4 - - - | - - - -
+bass:    A2 . . . | A2 . . . | F2 . . . | F2 . . .
+kick:    x . . . | . . . . | x . . . | . . . .
+hat:     . . x . | . . . . | . . x . | . . . .
+lead:    . . . . | . . . . | . . . . | . . . .
+
+## verse-b
+pad:     C3+E3+G3 - - - | - - - - | G3+B3+D4 - - - | - - - -
+bass:    C2 . . . | C2 . . . | G2 . . . | G2 . . .
+kick:    x . . . | . . . . | x . . . | . . . .
+hat:     . . x . | . . . . | . . x . | . . . .
+lead:    . . . . | . . . . | . . . . | . . . .
+
+## chorus-a
+pad:     A3+C4+E4 - - - | - - - - | F3+A3+C4 - - - | - - - -
+bass:    A2 - - - | A2 - - - | F2 - - - | F2 - - -
+kick:    X . . . | . . x . | X . . . | . . x .
+hat:     x . x . | x . x . | x . x . | x . x .
+lead:    E4 - G4 - | A4 - - G4 | C5 - A4 - | G4 - E4 - 
+
+## chorus-b
+pad:     C3+E3+G3 - - - | - - - - | G3+B3+D4 - - - | - - - -
+bass:    C2 - - - | C2 - - - | G2 - - - | G2 - - -
+kick:    X . . . | . . x . | X . . . | . . x .
+hat:     x . x . | x . x . | x . x . | x . x .
+lead:    G4 - E4 - | C5 - - B4 | D5 - B4 - | G4 - E4 -
+
+## bridge
+pad:     D3+F3+A3 - - - | - - - - | E3+G3+B3 - - - | - - - -
+bass:    D2 - - - | - - - - | E2 - - - | - - - -
+kick:    x . . . | . . . . | x . . . | . . . .
+lead:    A3 - - - | - - - - | B3 - - - | - - - -
+hat:     . . . . | . . . . | . . . . | . . . .
+
+## build
+pad:     F3+A3+C4 - - - | - - - - | G3+B3+D4 - - - | - - - -
+bass:    F2 . . . | F2 . . . | G2 . . . | G2 . . .
+kick:    x . . . | . . x . | x . . . | . . x .
+hat:     . . x . | . . x . | . . x . | . . x .
+lead:    C4 - - - | E4 - - - | G4 - - - | B4 - - -
+
+## outro
+pad:     A3+C4+E4 - - - | - - - - | - - - - | - - - -
+bass:    A2 - - - | - - - - | - - - - | - - - -
+lead:    A4 - - - | - - - - | - - - - | - - - -
+kick:    X . . . | . . . . | . . . . | . . . .
+hat:     . . . . | . . . . | . . . . | . . . .
+
+play: intro x2, verse-a x2, verse-b x2, chorus-a, chorus-b, verse-a, verse-b, chorus-a, chorus-b, bridge x2, build, chorus-a x2, chorus-b x2, outro
